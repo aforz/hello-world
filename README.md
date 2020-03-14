@@ -1,2 +1,4 @@
 # hello-world
-My First Repository
+Hi Humans!
+I'm Afroz Alam.
+
